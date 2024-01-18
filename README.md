@@ -1,6 +1,6 @@
 Equipo del proyecto:
 
-Martin Reynoso
-Erick Labrada
-Aracely Campa
-JOse Hinojosa
+Martin Reynoso <br>
+Erick Labrada  <br>
+Aracely Campa  <br>
+Jose Hinojosa
